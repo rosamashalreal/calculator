@@ -1,0 +1,34 @@
+.hope{
+    width: 17%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+}
+.book{
+    display: flex;
+}
+#gobis{
+    border-radius: 80px;
+    background-color: gray;
+}
+
+button{
+    padding: 20px;
+    border-radius: 10px;
+    background-color: gray;
+    border: none;
+    margin: 10px;
+}
+.colour{
+    background-color:orange;
+}
+#calculate{
+    padding: 10px;
+    margin: 5px;
+    width: 100%;
+}
+#error{
+    font-size: 10px;
+    color: red;
+    display: none;
+}
